@@ -1,0 +1,15 @@
+# API Keys & Credentials
+*Keys.txt
+keys.txt
+*.gpg
+
+# Zoho MCP tokens
+.zoho-config.json
+.zoho-tokens.json
+
+# Editor configs
+.obsidian/
+
+# OS files
+.DS_Store
+Thumbs.db
